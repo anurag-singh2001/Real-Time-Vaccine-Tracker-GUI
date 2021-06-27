@@ -11,9 +11,9 @@ You just have to enter your state name , district name and date and then informa
 
 Below are the some screenshots of my project
 
-![alt text](screenshots/1.png "Description goes here")
+![1](https://user-images.githubusercontent.com/72223953/123543754-b996b180-d76d-11eb-905f-a254f6ad0076.png)
 
-![alt text](screenshots/2.png "Description goes here")
+![2](https://user-images.githubusercontent.com/72223953/123543765-c2878300-d76d-11eb-97f6-5933f6a81613.png)
 
 
 ## Contributing
