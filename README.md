@@ -1,6 +1,6 @@
 # Real-Time Vaccine Tracker GUI
 
-I have made this project with the help of tkinter libary and some APIs 
+I have made this project with the help of Tkinter library and some APIs 
 
 With help of this you can find vaccination center where slots are available.
 
